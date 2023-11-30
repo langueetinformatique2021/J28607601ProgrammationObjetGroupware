@@ -9,7 +9,6 @@ public class testGregorianCalendar {
 		GregorianCalendar gc = new GregorianCalendar();
 		Date d = gc.getTime();
 		System.out.println(d.toString());
-
 	} 
 
 }
