@@ -10,5 +10,5 @@ public class testGregorianCalendar {
 		Date d = gc.getTime();
 		System.out.println(d.toString());
 	} 
-
+  
 }
